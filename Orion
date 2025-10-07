@@ -543,7 +543,7 @@ function library:CreateWindow(WName)
 	end
 	pcall(function()
 		game:GetService("StarterGui"):SetCore("SendNotification", {
-        	Title = "YoungStars Lib V1",
+        	Title = "Only for my friends!❤️‍🩹",
         	Text = "Made by foundlol <3!",
         	Duration = 5
    	 	})
